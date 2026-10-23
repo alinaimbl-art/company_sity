@@ -225,7 +225,21 @@ h3 {
     min-height: 88px;
     font-size: 14px;
 }
-
+#contacts{
+    padding^ 40px;
+    bacground-color: #f5f5f5;
+    text-align: center;
+}
+#contacts h2{
+    margin-bottom: 20px;
+}
+#contacts p{
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+#contacts a{
+    color: blue;
+}
 /* В ПРАКТИЧЕСКОЙ №9 студент B должен добавить оформление для нового блока #contacts.
    Не вставляйте готовое решение сюда до начала работы. */
 
